@@ -30,7 +30,7 @@
 
 # 👨‍💻 About Me
 
-```ts
+
 const ashish = {
   name: "Ashish Kumar Gupta",
 
@@ -89,9 +89,7 @@ const ashish = {
   lookingFor:
     "Backend / Full Stack Internship 🚀"
 };
-```
 
----
 
 # 🚀 What I Build
 
