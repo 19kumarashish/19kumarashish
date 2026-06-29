@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Ashish%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=17" />
 
-<br/>
+<br/> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+Redis+%E2%80%A2+AWS+%E2%80%A2+System+Design;Open+to+Backend+%2F+Full+Stack+Internship" />
 
