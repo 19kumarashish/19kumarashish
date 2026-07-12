@@ -5,7 +5,7 @@
 <br/> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+Redis+%E2%80%A2+AWS+%E2%80%A2+System+Design;Open+to+Backend+%2F+Full+Stack+Internship" />
-
+ 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarashish0217)
